@@ -1,6 +1,6 @@
 import os
 
-# teste git
+# teste git2
 # Criar um QUIZ de 10 PERGUNTAS
 # 1 tentativa = 10 pts
 # 2 tentativas = 5 pts
